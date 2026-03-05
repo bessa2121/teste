@@ -1,4 +1,3 @@
-Atualiza main
 1 - branch {
 
 git checkout -b nome-branch
